@@ -1,5 +1,4 @@
 # TypeScript Tetris
-Web Application that demonstrates the ability to control CSS Variables with JavaScript
 
 ## References
 This project was inspired by a [tutorial created by Meth Meth Method](https://youtu.be/H2aW5V46khA).
