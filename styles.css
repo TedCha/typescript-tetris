@@ -1,0 +1,16 @@
+body {
+    background: #202028;
+    color: #fff;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 2em;
+    text-align: center;
+}
+
+canvas {
+    border: solid .2em #fff;
+    height: 80vh;
+}
+
+#score {
+    padding-bottom: 2vh;
+}
