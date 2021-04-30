@@ -2,7 +2,7 @@
 Web Application that demonstrates the ability to control CSS Variables with JavaScript
 
 ## References
-This project was inspired by [tutorial created by Meth Meth Method](https://youtu.be/H2aW5V46khA).
+This project was inspired by a [tutorial created by Meth Meth Method](https://youtu.be/H2aW5V46khA).
 
 ## About
 The tutorial by Meth Meth Method covered creating Tetris in the browser using JavaScript, while building I converted the code to TypeScript, optimized confusing code, and created some of my own stylings.
